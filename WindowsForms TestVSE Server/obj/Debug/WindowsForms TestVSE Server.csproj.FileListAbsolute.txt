@@ -1,0 +1,18 @@
+C:\Users\prots\source\repos\WindowsForms TestVSE Server\WindowsForms TestVSE Server\bin\Debug\WindowsForms TestVSE Server.exe.config
+C:\Users\prots\source\repos\WindowsForms TestVSE Server\WindowsForms TestVSE Server\bin\Debug\WindowsForms TestVSE Server.exe
+C:\Users\prots\source\repos\WindowsForms TestVSE Server\WindowsForms TestVSE Server\bin\Debug\WindowsForms TestVSE Server.pdb
+C:\Users\prots\source\repos\WindowsForms TestVSE Server\WindowsForms TestVSE Server\bin\Debug\EntityFramework.dll
+C:\Users\prots\source\repos\WindowsForms TestVSE Server\WindowsForms TestVSE Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\prots\source\repos\WindowsForms TestVSE Server\WindowsForms TestVSE Server\bin\Debug\EntityFramework.xml
+C:\Users\prots\source\repos\WindowsForms TestVSE Server\WindowsForms TestVSE Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\prots\source\repos\WindowsForms TestVSE Server\WindowsForms TestVSE Server\obj\Debug\WindowsForms_TestVSE_Server.Form1.resources
+C:\Users\prots\source\repos\WindowsForms TestVSE Server\WindowsForms TestVSE Server\obj\Debug\WindowsForms_TestVSE_Server.Forms.Work.resources
+C:\Users\prots\source\repos\WindowsForms TestVSE Server\WindowsForms TestVSE Server\obj\Debug\WindowsForms_TestVSE_Server.Properties.Resources.resources
+C:\Users\prots\source\repos\WindowsForms TestVSE Server\WindowsForms TestVSE Server\obj\Debug\WindowsForms TestVSE Server.csproj.GenerateResource.cache
+C:\Users\prots\source\repos\WindowsForms TestVSE Server\WindowsForms TestVSE Server\obj\Debug\WindowsForms TestVSE Server.csproj.CoreCompileInputs.cache
+C:\Users\prots\source\repos\WindowsForms TestVSE Server\WindowsForms TestVSE Server\obj\Debug\WindowsForms TestVSE Server.csproj.CopyComplete
+C:\Users\prots\source\repos\WindowsForms TestVSE Server\WindowsForms TestVSE Server\obj\Debug\WindowsForms TestVSE Server.exe
+C:\Users\prots\source\repos\WindowsForms TestVSE Server\WindowsForms TestVSE Server\obj\Debug\WindowsForms TestVSE Server.pdb
+C:\Users\prots\source\repos\WindowsForms TestVSE Server\WindowsForms TestVSE Server\obj\Debug\WindowsForms TestVSE Server.csprojAssemblyReference.cache
+c:\Users\prots\source\repos\WindowsForms TestVSE Server\WindowsForms TestVSE Server\obj\Debug\WindowsForms_TestVSE_Server.Forms.ViewStatus.resources
+c:\Users\prots\source\repos\WindowsForms TestVSE Server\WindowsForms TestVSE Server\obj\Debug\WindowsForms_TestVSE_Server.Forms.ViewSubject.resources
